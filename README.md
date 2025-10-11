@@ -1,2 +1,2 @@
 # COMP1028
-coursework for COMP
+coursework for COMP1028
